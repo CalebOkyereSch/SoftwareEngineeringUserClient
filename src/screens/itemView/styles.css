@@ -1,0 +1,34 @@
+.itemEquip {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .info {
+    margin: auto;
+    /* padding: 10px; */
+    /* border:1px solid white; */
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .info i {
+    margin: auto;
+  }
+  
+  .info h3 {
+    color: #aaa;
+    margin: 0px;
+  }
+  .info p {
+    font-weight: 600;
+    font-size: 13px;
+  }
+  
+  .info span {
+    font-weight: 600;
+    font-size: 13px;
+    margin-bottom: -20px;
+    margin-top: 10px;
+    text-align: center;
+  }
+  

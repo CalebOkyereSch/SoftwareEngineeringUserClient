@@ -1,0 +1,73 @@
+{
+  "Buildings": [
+    {
+      "id": 1,
+      "price": "$500,000",
+      "location": "Tema Comm 4",
+      "doors": "4",
+      "bathrooms": "2",
+      "bedrooms": "2",
+      "picture": "1.jpg",
+      "descriptions": "  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates culpa provident quas ea, illum obcaecati, tempora odio molestiae dolore illo nesciunt ut accusamus at eius cumque quibusdam eaque cum. Quis? "
+    },
+    {
+      "id": 2,
+      "price": "$200,000",
+      "location": "Adenta",
+      "doors": "9",
+      "bathrooms": "7",
+      "bedrooms": "9",
+      "picture": "2.jpg",
+      "descriptions": "  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates culpa provident quas ea, illum obcaecati, tempora odio molestiae dolore illo nesciunt ut accusamus at eius cumque quibusdam eaque cum. Quis? "
+    },
+    {
+      "id": 3,
+      "price": "$800,000",
+      "location": "Madina",
+      "doors": "4",
+      "bathrooms": "2",
+      "bedrooms": "8",
+      "picture": "3.jpg",
+      "descriptions": "  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates culpa provident quas ea, illum obcaecati, tempora odio molestiae dolore illo nesciunt ut accusamus at eius cumque quibusdam eaque cum. Quis? "
+    },
+    {
+      "id": 4,
+      "price": "$500,000",
+      "location": "Accra Mall",
+      "doors": "8",
+      "bathrooms": "4",
+      "bedrooms": "4",
+      "picture": "4.jpg",
+      "descriptions": "  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates culpa provident quas ea, illum obcaecati, tempora odio molestiae dolore illo nesciunt ut accusamus at eius cumque quibusdam eaque cum. Quis? "
+    },
+    {
+      "id": 5,
+      "price": "$500,000",
+      "location": "Teshie",
+      "doors": "4",
+      "bathrooms": "2",
+      "bedrooms": "6",
+      "picture": "5.jpg",
+      "descriptions": "  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates culpa provident quas ea, illum obcaecati, tempora odio molestiae dolore illo nesciunt ut accusamus at eius cumque quibusdam eaque cum. Quis? "
+    },
+    {
+      "id": 6,
+      "price": "$600,000",
+      "location": "East Legon",
+      "doors": "4",
+      "bathrooms": "2",
+      "bedrooms": "2",
+      "picture": "6.jpg",
+      "descriptions": "  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates culpa provident quas ea, illum obcaecati, tempora odio molestiae dolore illo nesciunt ut accusamus at eius cumque quibusdam eaque cum. Quis? "
+    },
+    {
+      "id": 7,
+      "price": "$500,000",
+      "location": "Airport Residential Area",
+      "bathrooms": "2",
+      "bedrooms": "2",
+      "picture": "7.jpg",
+      "descriptions": "  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates culpa provident quas ea, illum obcaecati, tempora odio molestiae dolore illo nesciunt ut accusamus at eius cumque quibusdam eaque cum. Quis? "
+    }
+  ]
+}
